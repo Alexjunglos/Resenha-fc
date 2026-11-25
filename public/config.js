@@ -1,4 +1,4 @@
 window.RESENHA_CONFIG = {
-  SUPABASE_URL: "SUA_URL_DO_SUPABASE",
-  SUPABASE_ANON_KEY: "SUA_CHAVE_PUBLICAVEL"
+  SUPABASE_URL: "https://cgcwiiortndqgepivhfm.supabase.co/rest/v1/",
+  SUPABASE_ANON_KEY: "sb_publishable_D56XnUvb_TLbzeNo847rSw_wzEdYW3j",
 };
